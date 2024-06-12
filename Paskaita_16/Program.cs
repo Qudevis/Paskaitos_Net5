@@ -70,7 +70,7 @@
             pazymiai.Add("Karolis", karolioPazymiai); // better use TryAdd
             PrintGrades(pazymiai);
 
-            pazymiai["Karolis"].Add(11); // Better use TryAdd and TryGetValue
+            pazymiai["Karolis"].Add(11); // TryGetValue (geriau contains key patikrinti su ifu)
 
             PrintGrades(pazymiai);
 
