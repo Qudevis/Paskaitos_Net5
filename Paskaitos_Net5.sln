@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paskaita_7Tests1", "Paskait
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paskaita_8", "Paskaita_8\Paskaita_8.csproj", "{50FA13AB-373E-44EF-847E-DECF1017DFE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paskaita_12", "Paskaita_12\Paskaita_12.csproj", "{FED7CF42-7275-48DF-9485-85884C6EE17C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paskaita_12", "Paskaita_12\Paskaita_12.csproj", "{FED7CF42-7275-48DF-9485-85884C6EE17C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paskaita_13", "Paskaita_13\Paskaita_13.csproj", "{C1B5D95E-D874-4FE5-9B38-78B4524584AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paskaita_13", "Paskaita_13\Paskaita_13.csproj", "{C1B5D95E-D874-4FE5-9B38-78B4524584AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paskaita_15", "Paskaita_15\Paskaita_15.csproj", "{1BA2DE4A-E511-49A4-B6E0-3E5BA42FBF2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{C1B5D95E-D874-4FE5-9B38-78B4524584AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B5D95E-D874-4FE5-9B38-78B4524584AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B5D95E-D874-4FE5-9B38-78B4524584AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA2DE4A-E511-49A4-B6E0-3E5BA42FBF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA2DE4A-E511-49A4-B6E0-3E5BA42FBF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA2DE4A-E511-49A4-B6E0-3E5BA42FBF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA2DE4A-E511-49A4-B6E0-3E5BA42FBF2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
